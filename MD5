@@ -1,0 +1,16 @@
+a57b3ef55eb3340c2f7ace71a4490457 *DESCRIPTION
+34fdac5e50f51ce3f17bdf74f0939765 *NAMESPACE
+1800278d8340a680934899c72ade1458 *R/LDCA.R
+2ac23e7608510ffa234a80195d3d3d6b *man/LDCA.Rd
+fd192b175a7f14a3da9f0830dea8f105 *man/cv.LDCA.Rd
+c27e4419f28002864319eeb5d58298ec *man/predict.LDCA.Rd
+315a59f51d9e06b589dd999e622ccfb0 *man/predict.cv.LDCA.Rd
+090d092770610f9cea50dd2d12d0cc0f *man/predict.tsp.gbm.Rd
+0b7e9f15f1fe5c1a58e9180ead382ad7 *man/predict.tsp.randomForest.Rd
+67eb5d605057e5a5de1b024f26a8b8db *man/predict.tsp.tree.Rd
+97bdd24e528b637c5cebce7a6c388da5 *man/print.LDCA.Rd
+4bc8bb642302316d08c59eaec304ff2d *man/print.cv.LDCA.Rd
+1c5571b1228c7dd06f8a434107499b9e *man/tsp-package.Rd
+75e5ca6a8f1d765457f592ae8c20d788 *man/tsp.gbm.Rd
+6be61a1dbd13d00bcb7a6357970bfbef *man/tsp.randomForest.Rd
+ab6160700534e2a130bdd72e430cebf8 *man/tsp.tree.Rd

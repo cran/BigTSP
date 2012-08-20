@@ -1,0 +1,13 @@
+export(LDCA)
+export(cv.LDCA)
+export(tsp.tree)
+export(tsp.randomForest)
+export(tsp.gbm)
+S3method(print,LDCA)
+S3method(print,cv.LDCA)
+S3method(predict,LDCA)
+S3method(predict,cv.LDCA)
+S3method(predict,tsp.tree)
+S3method(predict,tsp.randomForest)
+S3method(predict,tsp.gbm)
+
